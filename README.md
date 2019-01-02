@@ -28,3 +28,21 @@ Run Server
 ```
 python manage.py runserver
 ```
+
+### Frontend:
+Go to the root directory and move to the frontend
+```
+cd 'todo_frontend'
+```
+Install Dependencies
+```
+npm install
+```
+Run Server
+'''
+npm start
+'''
+Open (http://localhost:8000) in your browser window to view the live application.
+
+
+
