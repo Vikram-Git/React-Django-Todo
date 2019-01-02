@@ -39,9 +39,9 @@ Install Dependencies
 npm install
 ```
 Run Server
-'''
+```
 npm start
-'''
+```
 Open http://localhost:8000 in your browser window to view the live application.
 
 
