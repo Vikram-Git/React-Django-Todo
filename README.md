@@ -42,7 +42,7 @@ Run Server
 ```
 npm start
 ```
-Open 'localhost:8000' in your browser window to view the live application.
+Open http://localhost:3000 in your browser window to view the live application.
 
 
 
