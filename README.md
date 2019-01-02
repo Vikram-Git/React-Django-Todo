@@ -2,10 +2,10 @@
 A simple todo application built with Reactjs, Redux and Django
 
 ## Features
-Django Rest Framework
-Token Authentication
-Redux
-Materialize CSS
+* Django Rest Framework
+* Token Authentication
+* Redux
+* Materialize CSS
 
 ## Installation
 
