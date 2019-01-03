@@ -1,0 +1,24 @@
+.nav-bar {
+    height: 70px;
+    font-size: 19px;
+    padding: 20px 15px;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-bar ul {
+    margin: 0;
+}
+
+.nav-bar ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.nav-bar ul li:hover {
+    cursor: pointer;
+}
+

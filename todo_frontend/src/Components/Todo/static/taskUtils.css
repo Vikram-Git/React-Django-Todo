@@ -1,0 +1,22 @@
+.task-filters {
+    list-style-type: none;
+    font-size: 18px;
+}
+
+.task-filters li {
+    display: inline;
+}
+
+.task-filters span {
+    margin-right: 5px;
+    margin-left: 5px
+}
+
+.task-filters li a{
+    text-decoration: none;
+    color: black;
+}
+
+.task-filters li a:hover{
+    color: grey;
+}

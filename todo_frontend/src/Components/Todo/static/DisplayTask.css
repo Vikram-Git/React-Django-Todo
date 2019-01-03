@@ -1,0 +1,18 @@
+
+.task .row {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+
+.task .row .completed:hover {
+    cursor: pointer;
+    color: green !important;
+}
+
+.task .row .remove:hover {
+    cursor: pointer;
+    color: red !important;
+}
