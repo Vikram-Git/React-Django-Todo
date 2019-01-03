@@ -1,3 +1,8 @@
 db.sqlite3
+<<<<<<< HEAD
 "/todo/settings/local"
 "/todo/settings/prod"
+=======
+todo/settings/local.py
+todo/settings/prod.py
+>>>>>>> 91de2bfe80bbe48d5fa697da6b3bfb7a245f8031
