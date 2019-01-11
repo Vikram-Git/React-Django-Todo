@@ -27,6 +27,12 @@ class App extends Component {
             }} />
       )} />
     )
+	
+	const error404 = ({ location }) => (
+		<div className="container center">
+			<h4>No match found for <code>{location.pathname}</code></h4>
+		</div>
+	)
 
     return (
     <BrowserRouter>
@@ -36,6 +42,7 @@ class App extends Component {
           <Route path="/login" component={ LoginForm } />
           <Route path="/register" component={ RegistrationForm } />
           <PrivateRoute exact path="/" component={ task } />
+		  <Route component={ error404 } />
         </Switch>
       </div>
     </BrowserRouter>
