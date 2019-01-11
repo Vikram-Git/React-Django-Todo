@@ -23,7 +23,7 @@ class Navbar extends Component {
                             :
                             <li><Link to="/login">Login</Link></li>
                         }
-                        <li><Link to="/#">GitHub</Link></li>
+                        <li><Link to="https://github.com/Vikram-Git/React-Django-Todo">GitHub</Link></li>
                     </ul>
                 </div>
             </div>
